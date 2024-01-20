@@ -45,8 +45,8 @@
       // rightBackMotor.follow(rightFrontMotor);
       // leftBackMotor.follow(leftBackMotor);
 
-      rightControllerGroup.setInverted(true);
-      leftControllerGroup.setInverted(false);
+      rightControllerGroup.setInverted(false);
+      leftControllerGroup.setInverted(true);
     }
 
     /**
